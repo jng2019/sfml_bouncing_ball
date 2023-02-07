@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jonat/CLionProjects/CS8_SFML_bouncing_ball
+# Install script for directory: C:/Users/jonat/CLionProjects/sfml_bouncing_ball
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jonat/CLionProjects/CS8_SFML_bouncing_ball/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jonat/CLionProjects/sfml_bouncing_ball/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
