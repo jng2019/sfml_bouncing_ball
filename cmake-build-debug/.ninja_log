@@ -1,0 +1,23 @@
+# ninja log v5
+2	2383	6974102301635829	CMakeFiles/sfml_template.dir/main.cpp.obj	10bb269ed89c6ecf
+2398	6237	6974102340051452	sfml_template.exe	51a217bc2cdfdf0c
+23	1694	6974110337939632	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+1699	3970	6974110360650310	sfml_template.exe	51a217bc2cdfdf0c
+85	2683	6974124736525182	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+2685	4948	6974124758924819	sfml_template.exe	51a217bc2cdfdf0c
+103	2702	6974125057058340	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+2704	4794	6974125077932134	sfml_template.exe	51a217bc2cdfdf0c
+8	1704	6974125476186220	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+1707	3629	6974125495300226	sfml_template.exe	51a217bc2cdfdf0c
+24	2152	6974131937614390	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+2154	4050	6974131956544538	sfml_template.exe	51a217bc2cdfdf0c
+9	1255	6974132245290975	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+1256	2799	6974132260621994	sfml_template.exe	51a217bc2cdfdf0c
+8	1332	6974137081724026	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+1334	3625	6974137104562003	sfml_template.exe	51a217bc2cdfdf0c
+9	1261	6974137803133097	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+1262	2834	6974137818757260	sfml_template.exe	51a217bc2cdfdf0c
+7	1172	6974138208461044	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+1175	2836	6974138224988167	sfml_template.exe	51a217bc2cdfdf0c
+9	1266	6974140384975122	CMakeFiles/sfml_template.dir/main.cpp.obj	2e043dbebc437b00
+1267	2826	6974140400474129	sfml_template.exe	51a217bc2cdfdf0c
